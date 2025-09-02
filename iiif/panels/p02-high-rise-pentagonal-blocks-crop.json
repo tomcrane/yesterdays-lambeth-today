@@ -1139,8 +1139,8 @@
     {
       "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10813_2022",
       "type": "Canvas",
-      "height": 4260,
-      "width": 2800,
+      "height": 2280,
+      "width": 2400,
       "behavior": [
         "bottom",
         "w-6",
@@ -1225,7 +1225,7 @@
                 },
                 "selector": {
                   "type": "ImageApiSelector",
-                  "region": "5,670,2800,4260"
+                  "region": "5,670,2400,2280"
                 }
               }
             }
