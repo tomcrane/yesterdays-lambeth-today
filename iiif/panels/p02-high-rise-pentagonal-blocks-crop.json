@@ -16,7 +16,7 @@
     {
       "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10806/full/max/0/default.jpg",
       "type": "Image",
-      "format": "image/jpg",
+      "format": "image/jpeg",
       "height": 2458,
       "width": 3484,
       "service": [
@@ -130,7 +130,7 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10806/full/400,282/0/default.jpg",
           "type": "Image",
-          "format": "image/jpg",
+          "format": "image/jpeg",
           "service": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10806",
@@ -191,7 +191,7 @@
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10806/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "height": 2458,
                 "width": 3484,
                 "service": [
@@ -243,7 +243,7 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/07681/full/400,318/0/default.jpg",
           "type": "Image",
-          "format": "image/jpg",
+          "format": "image/jpeg",
           "service": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/07681",
@@ -304,7 +304,7 @@
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/07681/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "height": 2520,
                 "width": 3173,
                 "service": [
@@ -344,7 +344,7 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/07681_DSC_0089/full/400,265/0/default.jpg",
           "type": "Image",
-          "format": "image/jpg",
+          "format": "image/jpeg",
           "service": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/07681_DSC_0089",
@@ -393,7 +393,7 @@
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/07681_DSC_0089/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "height": 3264,
                 "width": 4928,
                 "service": [
@@ -445,7 +445,7 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10906/full/307,400/0/default.jpg",
           "type": "Image",
-          "format": "image/jpg",
+          "format": "image/jpeg",
           "service": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10906",
@@ -506,7 +506,7 @@
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10906/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "height": 3389,
                 "width": 2598,
                 "service": [
@@ -546,7 +546,7 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10906_DSC_0094A_copy/full/265,400/0/default.jpg",
           "type": "Image",
-          "format": "image/jpg",
+          "format": "image/jpeg",
           "service": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10906_DSC_0094A_copy",
@@ -595,7 +595,7 @@
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10906_DSC_0094A_copy/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "height": 4928,
                 "width": 3264,
                 "service": [
@@ -647,7 +647,7 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10808/full/311,400/0/default.jpg",
           "type": "Image",
-          "format": "image/jpg",
+          "format": "image/jpeg",
           "service": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10808",
@@ -708,7 +708,7 @@
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10808/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "height": 3307,
                 "width": 2568,
                 "service": [
@@ -748,7 +748,7 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10808_DSC_0040A/full/265,400/0/default.jpg",
           "type": "Image",
-          "format": "image/jpg",
+          "format": "image/jpeg",
           "service": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10808_DSC_0040A",
@@ -857,7 +857,7 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10907/full/400,275/0/default.jpg",
           "type": "Image",
-          "format": "image/jpg",
+          "format": "image/jpeg",
           "service": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10907",
@@ -918,7 +918,7 @@
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10907/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "height": 2352,
                 "width": 3425,
                 "service": [
@@ -958,7 +958,7 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10907_DSC_0096A_copy/full/400,265/0/default.jpg",
           "type": "Image",
-          "format": "image/jpg",
+          "format": "image/jpeg",
           "service": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10907_DSC_0096A_copy",
@@ -1007,7 +1007,7 @@
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10907_DSC_0096A_copy/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "height": 3264,
                 "width": 4928,
                 "service": [
@@ -1059,7 +1059,7 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813/full/400,311/0/default.jpg",
           "type": "Image",
-          "format": "image/jpg",
+          "format": "image/jpeg",
           "service": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813",
@@ -1120,7 +1120,7 @@
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "height": 2598,
                 "width": 3338,
                 "service": [
@@ -1160,7 +1160,7 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813_DSC_0043_1A/full/265,400/0/default.jpg",
           "type": "Image",
-          "format": "image/jpg",
+          "format": "image/jpeg",
           "service": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813_DSC_0043_1A",
@@ -1266,7 +1266,7 @@
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/p2_crop/full/1600,961/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "height": 961,
                 "width": 1600,
                 "service": [

@@ -141,7 +141,7 @@ def get_canvas(image_api_url, display_name, slug):
                         "body": {
                             "id": image_api_url + "/full/max/0/default.jpg",
                             "type": "Image",
-                            "format": "image/jpg",
+                            "format": "image/jpeg",
                             "service": [
                                 {
                                     "id": image_api_url,

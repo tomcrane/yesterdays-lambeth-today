@@ -37,7 +37,7 @@
                 "type": "Image",
                 "width": 789,
                 "height": 1600,
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/3/context.json",

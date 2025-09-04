@@ -31,7 +31,7 @@
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/full/789,1600/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "height": 1600,
                 "width": 789,
                 "service": [

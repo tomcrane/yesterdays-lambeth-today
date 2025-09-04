@@ -29,7 +29,7 @@ if __name__ == "__main__":
             {
                 "id": f"{image_service['id']}/full/{thumb_size['width']},{thumb_size['height']}/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpeg",
                 "service": [
                     image_service
                 ]
